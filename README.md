@@ -1,1 +1,1 @@
-# aws-cloudx-couurse
+# aws-cloudx-course
